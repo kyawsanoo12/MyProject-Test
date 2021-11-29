@@ -1,0 +1,2 @@
+sudo systemctl status mysql
+sudo systemctl enable --now mongod
